@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\InventoryApplication\InventoryApplication\bin\Debug\net8.0-windows\InventoryApplication.exe
+C:\Users\user\source\repos\InventoryApplication\InventoryApplication\bin\Debug\net8.0-windows\InventoryApplication.deps.json
+C:\Users\user\source\repos\InventoryApplication\InventoryApplication\bin\Debug\net8.0-windows\InventoryApplication.runtimeconfig.json
+C:\Users\user\source\repos\InventoryApplication\InventoryApplication\bin\Debug\net8.0-windows\InventoryApplication.dll
+C:\Users\user\source\repos\InventoryApplication\InventoryApplication\bin\Debug\net8.0-windows\InventoryApplication.pdb
+C:\Users\user\source\repos\InventoryApplication\InventoryApplication\obj\Debug\net8.0-windows\InventoryApplication.frmAddProduct.resources
+C:\Users\user\source\repos\InventoryApplication\InventoryApplication\obj\Debug\net8.0-windows\InventoryApplication.csproj.GenerateResource.cache
+C:\Users\user\source\repos\InventoryApplication\InventoryApplication\obj\Debug\net8.0-windows\InventoryApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\InventoryApplication\InventoryApplication\obj\Debug\net8.0-windows\InventoryApplication.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\InventoryApplication\InventoryApplication\obj\Debug\net8.0-windows\InventoryApplication.AssemblyInfo.cs
+C:\Users\user\source\repos\InventoryApplication\InventoryApplication\obj\Debug\net8.0-windows\InventoryApplication.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\InventoryApplication\InventoryApplication\obj\Debug\net8.0-windows\InventoryApplication.dll
+C:\Users\user\source\repos\InventoryApplication\InventoryApplication\obj\Debug\net8.0-windows\refint\InventoryApplication.dll
+C:\Users\user\source\repos\InventoryApplication\InventoryApplication\obj\Debug\net8.0-windows\InventoryApplication.pdb
+C:\Users\user\source\repos\InventoryApplication\InventoryApplication\obj\Debug\net8.0-windows\InventoryApplication.genruntimeconfig.cache
+C:\Users\user\source\repos\InventoryApplication\InventoryApplication\obj\Debug\net8.0-windows\ref\InventoryApplication.dll
